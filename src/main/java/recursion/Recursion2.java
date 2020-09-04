@@ -37,6 +37,7 @@ public class Recursion2 {
             node6 = node6.next;
         }
     }
+
 }
 
 class Node {
